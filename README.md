@@ -8,7 +8,6 @@
 예외 처리와 사용자 관점을 항상 먼저 고민하며 서비스를 만듭니다.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pshpsh1008@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/parkc_now)
 
 </div>
 
