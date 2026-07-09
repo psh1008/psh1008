@@ -1,77 +1,50 @@
-# 박시현 | Backend Java Developer
+# 안녕하세요, 박시현입니다 👋
 
-사용자의 입장에서 고민하며 안정적인 백엔드 서비스를 만드는 개발자입니다.  
-Spring 기반 웹 애플리케이션 개발과 보안, 예외처리에 관심이 많습니다.
+백엔드 자바 개발자를 목표로 하는 신입 개발자입니다.
+새로운 기술을 배우고 성장하는 것을 좋아하며, 개발 과정에서 항상 예외 처리와 사용자 입장을 고민합니다.
 
----
-
-## 🙋‍♂️ About Me
-
-- 새로운 기술을 빠르게 익히고 프로젝트에 적용하는 것을 좋아합니다.
-- 개발 과정에서 예외처리와 사용자 경험을 중요하게 생각합니다.
-- Java/Spring 기반 백엔드 개발자로 성장하고 있습니다.
+- 🌱 현재 **Spring Boot**와 **JSP**를 공부하고 있어요
+- 🏨 신입 개발자로 좋은 팀을 찾고 있습니다
+- 😘 영화, 음악, 축구를 좋아해요
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Skills & Tools
 
-### Backend
-Java, Spring Boot, MyBatis, JSP
-
-### Database
-MySQL, Oracle
-
-### DevOps / Cloud
-Docker, AWS
-
-### Tools
-Git, GitHub, IntelliJ, VS Code
+**Backend**: Java, Spring, MyBatis
+**DevOps**: Docker, AWS
+**기타**: 시큐어 코딩, 사용자 인증 보안, 웹 취약점 분석
 
 ---
 
-## 📚 Education
+## 📝 Projects
 
-**더조은컴퓨터아카데미**  
-2024.10.21 ~ 2025.05.09  
-자바 웹개발(백엔드) & 앱개발자(클라우드 활용) 취업캠프 수료
+### [BOOKDUCK](https://github.com/psh1008) – 전자북 교환독서 웹앱 서비스
+전자책을 교환하고 함께 독서할 수 있는 웹 애플리케이션 서비스입니다.
 
-- Java, MyBatis, Spring, Docker, AWS 기반 웹 애플리케이션 개발
-- 사용자 인증/보안, 웹 취약점 분석, 시큐어 코딩 학습
-- 전자정부프레임워크 기반 실습
-- SaaS 기반 ERP 구현 및 클라우드 서버 배포 경험
+### Album Archive – 앨범 마켓
+앨범을 사고파는 마켓 플레이스 웹 서비스입니다.
 
----
-
-## 🚀 Projects
-
-### 1. 프로젝트명
-> 한 줄 설명
-
-- 기간: 2025.01 ~ 2025.02
-- 역할: 백엔드 개발
-- 기술: Java, Spring Boot, MyBatis, MySQL
-- 주요 기능:
-  - 회원가입 / 로그인
-  - 게시판 CRUD
-  - 관리자 기능
-- 트러블슈팅:
-  - 세션 처리 문제 해결
-  - 예외처리 로직 개선
-
-[Repo](링크) | [Demo](링크)
+> Spring 프레임워크를 활용한 웹 애플리케이션 개발, 시큐어 코딩과 사용자 인증 보안을 적용한 SaaS 기반 ERP 구현, 보안 설정을 반영한 클라우드 서버 배포 경험이 있습니다.
 
 ---
 
 ## 🏅 Certifications
 
-- 정보처리산업기사
-- 네트워크관리사 2급
-- 행정관리사 3급
+- 정보처리산업기사 (2023.09)
+- 네트워크관리사 2급 (2022.12)
+- 행정관리사 3급 (2022.12)
+
+---
+
+## 📖 Education
+
+- 숭실대학교 글로벌미래교육원 (2022.03 ~ 2023.02, 졸업)
+- 더조은 컴퓨터아카데미 – 자바 웹개발(백엔드) & 앱개발자(클라우드 활용) 취업캠프 (2024.10 ~ 2025.05)
 
 ---
 
 ## 📫 Contact
 
-- Email: pshpsh1008@gmail.com
-- GitHub: [github.com](https://github.com/psh1008)
-- Notion: 포트폴리오 링크
+- ✉️ Email: pshpsh1008@gmail.com
+- 📷 Instagram: [@parkc_now](https://www.instagram.com/parkc_now)
