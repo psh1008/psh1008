@@ -19,10 +19,10 @@
 
 ## 📝 Projects
 
-### [BOOKDUCK](https://github.com/psh1008) – 전자북 교환독서 웹앱 서비스
+### [BOOKDUCK](https://github.com/dvone224/bookDuck) – 전자북 교환독서 웹앱 서비스
 전자책을 교환하고 함께 독서할 수 있는 웹 애플리케이션 서비스입니다.
 
-### Album Archive – 앨범 마켓
+### [Album Archive](https://github.com/shoot3957/albumArchive) – 앨범 마켓
 앨범을 사고파는 마켓 플레이스 웹 서비스입니다.
 
 > Spring 프레임워크를 활용한 웹 애플리케이션 개발, 시큐어 코딩과 사용자 인증 보안을 적용한 SaaS 기반 ERP 구현, 보안 설정을 반영한 클라우드 서버 배포 경험이 있습니다.
